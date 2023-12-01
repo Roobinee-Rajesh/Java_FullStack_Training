@@ -1,0 +1,9 @@
+Concepts:
+->Client server interaction
+->TCP - data transfer as packets
+->UDP - data loss can't be tracked
+->DNS - contain the IP address
+->CDN - Nearest server access
+
+
+Basic website repository link: https://github.com/Roobinee-Rajesh/HTML.git

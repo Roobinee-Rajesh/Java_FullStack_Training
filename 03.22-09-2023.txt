@@ -1,0 +1,8 @@
+display-flex:
+justify-content -> To align the main axis
+align-item -> To align the items in the cross access
+
+position: absolute ->for items that has to be aligned inside
+position: relative -> for items that has to be used external
+Repository link: https://github.com/Roobinee-Rajesh/Red-Bus-UI
+Red Bus Website: https://roobinee-rajesh.github.io/Red-Bus-UI/

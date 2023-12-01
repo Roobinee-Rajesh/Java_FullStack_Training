@@ -1,0 +1,49 @@
+Java
+----
+
+Format->ctr+alt+L
+Primitive data type
+String -> string is a class S
+Capital letter at starting will denote class
+
+Errors
+------
+Range out of boundary
+Float has to be declared with float[] a=20.9f;
+
+Array
+-----
+Array->1. has to be declared a[]={}
+2.Set range to an array   int[] a = new int[5];
+        a[0] = 1;
+        a[1] = 1;
+System.out.println(e)->for array it will print the base address
+To print the exact array->System.out.println(Arrays.toString(f))
+
+Looping
+-------
+While
+-----
+If the condition range of while is greater than array length, at end it will show out of bound
+
+------------------------------------
+
+Floor->below 5
+seal->above 5
+round->exact value rounded
+------------------------------------
+
+String,StringBuffer
+
+----------------------------------
+
+Access Specifiers->
+Access Modifiers->
+
+Task
+-----
+ATM
+->Deposit
+->Balance
+->Withdraw
+->Exit

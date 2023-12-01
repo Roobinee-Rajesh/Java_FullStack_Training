@@ -1,0 +1,19 @@
+Car Reservation System 
+----------------------
+
+->API Call
+
+User
+----
+->Get cars by pickup and drop date
+->View and edit profile
+->view past Reservation
+->View current Reservation
+->View upcomming Reservations
+->Delete upcomming Reservation
+->Add car to reservations
+
+Staff
+-----
+->View current month maintenannce
+->Update maintenance status

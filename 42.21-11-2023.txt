@@ -1,0 +1,19 @@
+Issues
+------
+Page while refresh returning to dashboard
+-----------------------------------------
+changes in
+->auth guard
+->auth service
+->storage service
+
+to save to local storage
+------------------------
+inteseptor
+auth service
+
+cros origin
+-----------
+in spring .allowallmethods()
+
+

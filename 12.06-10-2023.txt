@@ -1,0 +1,16 @@
+Repository link: https://github.com/Roobinee-Rajesh/cozastore-cart.git
+Website link: https://roobinee-rajesh.github.io/cozastore-cart/
+
+
+j-query
+-------
+fetch()->data from url
+->will return a promis
+-> handell a promis using .then-success,.catch-failure
+->to reduce chaining in fetch asyncawait is used
+
+
+Promise.all->to run multiole function
+
+
+null error->if(ref) has to be added

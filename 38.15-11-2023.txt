@@ -1,0 +1,13 @@
+Car Reservation System 
+----------------------
+->Define Modele
+->Created Schema
+->Foreign key mapping
+->Listed API to be made
+
+Admin api
+---------
+->PUT, POST,Delete,GET on Car
+->PUT, POST,Delete,GET on Staff
+->View current car bookings
+->Current month maintenance detail

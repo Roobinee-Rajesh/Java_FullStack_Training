@@ -1,0 +1,33 @@
+config- Configuration
+Controller- Rest api
+dto-
+Exception-
+Service- bussiness logic
+dataloader- default value for db
+dto-
+app.log-> all log will be stored
+
+ANT_PATH_MATCHER - access is not required for few pages
+
+
+Steps to follow in project
+--------------------------
+
+->Boiler plate
+->Model
+
+
+@Transient -> column will not be creaed in database
+image -> @LOB, type is byte
+
+Car Reservation System 
+----------------------
+    *Started with backend part of the project by creating the following 
+        -> Models 
+        -> Controller 
+        -> Request and Response Model
+        -> Security configuration 
+        -> Exception 
+        -> Service 
+        -> DTO 
+        -> Data loader 

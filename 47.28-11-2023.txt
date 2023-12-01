@@ -1,0 +1,6 @@
+Car Reservation Service
+-----------------------
+->Email confirmation SMTP connection
+->Ui Design for user
+->Ui for Staff
+->Edit car

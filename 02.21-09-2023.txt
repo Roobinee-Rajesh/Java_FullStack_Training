@@ -1,0 +1,50 @@
+HTML
+
+->block  - p,h1..h2, pre
+->inline - a, span
+
+->html entities -- hash code
+<a href="" target="">
+
+->input tags
+text, password, email
+
+->media tag
+img, audio, video
+
+->col span, row, span
+id product quantity price
+
+->symatic tag 
+thead, tbody, tfoot, div
+
+->table 
+th, td, tr
+
+
+CSS
+
+class-> .
+id-> #
+
+->selector
+
+attributr selector--> input[typt=text]{}
+
+tag selector-->
+
+linear gradient, boarder, shadow, margin, padding, color
+
+relational selector-> div>p all para inside div will use style
+pseudo element -> p::
+pseudo selectors-> p:
+
+
+-->Flex
+
+display: flex --- by default row
+
+flex-display: coloum -> will display in horizontal format
+
+Justify-content
+align-content

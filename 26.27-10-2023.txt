@@ -1,0 +1,31 @@
+Task
+----
+User
+----
+View
+->Category
+->Products
+->Cart 
+->Orders
+
+Admin
+-----
+CRUD
+->Category
+->Product
+->User
+
+Database basics 
+---------------
+    *Relational databases
+    *Non-Relational database 
+    *Primary Key 
+    *Foriegn Key
+
+
+
+Task to do
+----------
+    *To perform operations on date like add or minus days/months using 
+        -Date 
+        -Calender

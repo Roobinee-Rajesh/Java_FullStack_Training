@@ -1,0 +1,12 @@
+Points
+------
+
+->While using <form> tag the page will relode automatically, to prevent it use event.preventDefault();
+
+E-commerce Website
+------------------
+->Cart functionality while cart is empty and with products.
+->Load products(Admin,user)
+
+Repository link: https://github.com/Roobinee-Rajesh/E-Commerce-WebSite
+Website link: https://roobinee-rajesh.github.io/E-Commerce-WebSite/

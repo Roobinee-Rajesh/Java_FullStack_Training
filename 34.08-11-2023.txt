@@ -1,0 +1,27 @@
+RestController
+--------------
+Will return an JSON Object
+
+Github Link 
+-----------
+Spring MVC -> https://github.com/Roobinee-Rajesh/Spring-MVC
+
+
+Rest Api Concepts 
+----------------
+    *Creating Rest API using Spring Boot.
+    *HttpRequests 
+        -> @GetMapping
+        -> @PutMapping 
+        -> @PostMapping 
+        -> @DeleteMapping 
+    *JdbcTemplate 
+
+
+Task 
+----
+    *To create a rest API for todo application using Springboot for the following HttpRequests.
+        - GET 
+        - POST 
+        - PUT 
+        - DELETE 

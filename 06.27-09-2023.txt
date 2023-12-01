@@ -1,0 +1,98 @@
+Map:
+----
+
+const arr1 = [
+  { name: "Roobinee", age: 21 },
+  { name: "Roobinee", age: 21 },
+];
+
+let output1 = arr1.map((s) => `${s.name} is ${s.age}`);
+
+console.log(output1);
+
+Reduce:
+-------
+
+const arr3 = [1, 2, 3, 4];
+const output3 = arr3.reduce((acc, cuu) => {
+  acc = acc + cuu;
+  return acc;
+}, 0);
+
+console.log(output3);
+
+Filter:
+-------
+
+const arr2 = [1, 2, 3, 4];
+const output2 = arr2.filter((a) => a % 2);
+console.log(output2);
+
+
+Promise:
+--------
+
+const result = () => {
+  return new promise((resolve,reject)=>{
+    let success=True;
+    if(success){
+      resolve("Done");
+    }
+    else{
+      reject("Not Done");
+    }
+  });
+}
+result.then((a)=>console.log(a))
+.catch((a)=>console.log(a));
+
+
+Fetch:
+------
+
+->Fetch is an API that uses promise
+
+ fetch("https://jsonplaceholder.typicode.com/users")
+  .then((response) => response.json())
+  .then((data) => console.log(data));
+
+Async Await:
+------------
+
+Example:
+const asyncawait = async () => {
+  try {
+    const output = await fetch("https://jsonplaceholder.typicode.com/users");
+    // const ans=await output.json();
+    console.log(await output.json());
+  } catch (err) {
+    console.log("Error");
+  }
+};
+
+asyncawait();
+
+
+
+Java Script Topics
+------------------
+    *Variables 
+    *Const 
+    *Object 
+    *Nested Objects 
+    *Arrays 
+    *Functions 
+    *Types of function
+    *Conditional 
+    *Loop 
+    *Async Await 
+    *Map Reduce Filter 
+    *Fetch
+    *Promise
+
+ 
+--> Created a sample website that accepts inputs and displays it using bootstarp and javascript.
+
+Repository link: https://github.com/Roobinee-Rajesh/JavaScript-Address-Book
+Website link: https://roobinee-rajesh.github.io/JavaScript-Address-Book/
+

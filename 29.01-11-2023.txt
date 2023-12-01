@@ -1,0 +1,28 @@
+SQL
+---
+Database commands
+-----------------
+DML->Modify table
+DDL->How it looks
+DQL
+TCL
+DCL
+
+Datatypes
+---------
+CHAR(size)
+VARCHAR
+TINY
+BINARY
+VAR
+VAR BINARY
+
+File type datatype->BLOG
+LOB-> long data
+
+
+commands
+--------
+->create Database
+->show databases
+->use database name

@@ -1,0 +1,58 @@
+Collections
+-----------
+List
+----
+ArrayList
+---------
+->Can have null values
+->comparetively faster then linked list
+LinkedList
+----------
+->Cant' have null values
+
+Set
+---
+Set
+---
+->Can't access using index
+->random
+HashSet
+-------
+->Can't access using index
+->random
+->Hashing methodology
+LinkedHashSet
+-------------
+->display in order as we insert
+TreeSet
+------
+->Ascending order
+->can't pass objects as it try to order it
+
+Map
+---
+TreeMap
+HashMap
+->Key value pair
+
+
+File Handelling
+---------------
+->Buffer reader 
+->File reader
+
+Unit Testing
+------------
+    maven dependencies
+    annotation
+        test
+        DisplayName
+        beforeeach
+        beforeall
+ 
+Deadlock
+--------
+when two threads are trying to access the same file to read and write.
+    wait
+    notify
+    notifyAll

@@ -1,0 +1,5 @@
+Front-end & Back-end integration
+---------------------------------
+
+->Integrated Get methods
+->Integrated post method for Admin

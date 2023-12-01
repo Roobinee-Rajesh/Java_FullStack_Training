@@ -1,0 +1,29 @@
+Lottiee
+-------
+package.json
+assets
+
+CorsConfid
+Make change in security config
+
+
+Google Font ->import url and importmin body
+TailWind -> color
+
+!important->tp override
+
+UI 
+--
+Authentication
+--------------
+->Login 
+->Register
+
+User
+----
+->Home Page
+->Search result Page
+->Profile Page
+->Reservation Page
+->Select car view page
+->Confirmation Page

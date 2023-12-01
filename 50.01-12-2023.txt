@@ -1,0 +1,15 @@
+LasyLoading
+-----------
+A technique for waiting to load certain parts of a webpage — especially images — until they are needed.
+
+Struct
+------
+Java classes with public attributes and no modeled methods.
+
+Custom Validation
+-----------------
+Inject FormBuilder service using the inject function.
+weblink: https://www.digitalocean.com/community/tutorials/angular-custom-validation
+->Implements validator
+->customize the errors
+->ng g d directive/name
